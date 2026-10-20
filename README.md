@@ -5,6 +5,8 @@
   />
 </p>
 
+<sub><b>PARTH☆</b></sub>
+
 <p align="center">
   <b>i build models that think in loops.</b><br />
   <sub>cs student · machine learning · night rides · learning rust · running everything locally</sub>
