@@ -1,14 +1,3 @@
-<!--
-  ┌─────────────────────────────────────────────────────────────┐
-  │  parth ☆ · profile readme                                  │
-  │                                                             │
-  │  widgets  capsule-render · readme-typing-svg · skillicons   │
-  │           github-readme-stats · activity-graph · snk        │
-  │                                                             │
-  │  social links use placeholder tokens — run ./fill-handles.sh  │
-  └─────────────────────────────────────────────────────────────┘
--->
-
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=185&section=header&text=Parth%E2%98%86&fontSize=64&fontColor=3FB950&fontAlignY=40&desc=cs%20student%20%C2%B7%20machine%20learning%20%C2%B7%20building%20recursive%20language%20models&descAlignY=68&descAlign=50&descSize=18&descColor=8b949e&animation=fadeIn"
