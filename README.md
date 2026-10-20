@@ -1,4 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=130&section=header&text=parth%20%E2%98%86&fontSize=45&fontColor=ffffff&fontAlign=50&fontAlignY=45&desc=cs%20student%20%C2%B7%20machine%20learning%20%C2%B7%20night%20rider&descSize=15&descColor=8b949e&descAlign=50&descAlignY=75" alt="Header Banner" />
+<h3><samp>~/ascended-parth $ whoami</samp></h3>
+<h1><samp>parth ☆</samp></h1>
+<samp>cs student · machine learning · night rider</samp>
 
 ---
 
