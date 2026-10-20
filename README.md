@@ -1,4 +1,7 @@
-<h3><samp>~/ascended-parth $ whoami</samp></h3>
+<h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1&pause=1000&color=3FB950&vCenter=true&repeat=false&width=205&height=28&lines=~%2Fascended-parth+%24" align="absmiddle" alt="~/ascended-parth $" />
+  <samp>whoami</samp>
+</h3>
 <h1><samp>parth ☆</samp></h1>
 <samp>cs student · machine learning · night rider</samp>
 
