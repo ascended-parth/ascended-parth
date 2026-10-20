@@ -2,7 +2,7 @@
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=1&pause=1000&color=3FB950&vCenter=true&repeat=false&width=205&height=26&lines=~%2Fascended-parth+%24" align="absmiddle" alt="~/ascended-parth $" />
-  <kbd>whoami</kbd>
+  whoami
 </p>
 
 <p align="left">
