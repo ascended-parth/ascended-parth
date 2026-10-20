@@ -8,14 +8,33 @@
     off-screen  :: motorcycle rides & cooking
     endgame     :: local frontier model + triumph street triple 765 rs
 
+<br/>
+
 ### stack & environment
 
-![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust_(learning)-000000?style=flat-square&logo=rust&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=white) ![VSCodium](https://img.shields.io/badge/-VSCodium-000000?style=flat-square&logo=vscodium&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" height="34" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" height="34" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" height="34" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Rust_(learning)-000000?style=for-the-badge&logo=rust&logoColor=white" height="34" alt="Rust" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" height="34" alt="Linux" />
+  <img src="https://img.shields.io/badge/VSCodium-000000?style=for-the-badge&logo=vscodium&logoColor=white" height="34" alt="VSCodium" />
+</p>
+
+<br/>
 
 ### activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ascended-parth&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=8b949e&icon_color=ffffff&hide_title=true)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ascended-parth&show_icons=true&bg_color=000000&border_color=30363d&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff" width="49%" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=ascended-parth&theme=dark&background=000000&border=30363d&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=ffffff&sideLabels=8b949e&dates=8b949e" width="49%" alt="GitHub Streak" />
+</p>
 
 ---
 
-[![Instagram](https://img.shields.io/badge/-instagram-000000?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM_USERNAME) ![Discord](https://img.shields.io/badge/-discord:@YOUR_DISCORD_TAG-000000?style=flat-square&logo=discord&logoColor=white)
+<p align="left">
+  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" height="34" alt="Instagram" />
+  </a>
+  <img src="https://img.shields.io/badge/Discord-@YOUR__DISCORD__TAG-000000?style=for-the-badge&logo=discord&logoColor=white" height="34" alt="Discord" />
+</p>
