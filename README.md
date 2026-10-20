@@ -1,8 +1,4 @@
-<a href="https://github.com/ascended-parth">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&vCenter=true&width=600&lines=parth+%E2%98%86;cs+student+%C2%B7+machine+learning;building+recursive+language+models;night+rider+%C2%B7+765+rs+dreamer" alt="Typing SVG" />
-</a>
-
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=130&section=header&text=parth%20%E2%98%86&fontSize=45&fontColor=ffffff&fontAlign=50&fontAlignY=45&desc=cs%20student%20%C2%B7%20machine%20learning%20%C2%B7%20night%20rider&descSize=15&descColor=8b949e&descAlign=50&descAlignY=75" alt="Header Banner" />
 
 ---
 
