@@ -1,5 +1,7 @@
-<h1>𝑝𝑎𝑟𝑡ℎ ☆</h1>
-<samp>c s   s t u d e n t   ·   m a c h i n e   l e a r n i n g   ·   n i g h t   r i d e r</samp>
+<a href="https://github.com/ascended-parth">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&vCenter=true&width=600&lines=parth+%E2%98%86;cs+student+%C2%B7+machine+learning;building+recursive+language+models;night+rider+%C2%B7+765+rs+dreamer" alt="Typing SVG" />
+</a>
+
 
 
 ---
