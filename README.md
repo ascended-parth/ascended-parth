@@ -1,13 +1,5 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=185&section=header&text=Parth%E2%98%86&fontSize=64&fontColor=3FB950&fontAlignY=40&desc=cs%20student%20%C2%B7%20machine%20learning%20%C2%B7%20building%20recursive%20language%20models&descAlignY=68&descAlign=50&descSize=18&descColor=8b949e&animation=fadeIn"
-    alt="Parth — cs student, machine learning, building recursive language models"
-    width="100%"
-  />
-</p>
-
-<p align="center">
-  <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=3FB950&vCenter=true&repeat=false&width=430&height=24&lines=~%2Fascended-parth+%24+whoami+--show"
     alt="~/ascended-parth $ whoami --show"
   />
