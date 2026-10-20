@@ -1,5 +1,6 @@
-## parth ☆
-*cs student · machine learning · night rider*
+<h1>𝑝𝑎𝑟𝑡ℎ ☆</h1>
+<samp>c s   s t u d e n t   ·   m a c h i n e   l e a r n i n g   ·   n i g h t   r i d e r</samp>
+
 
 ---
 
