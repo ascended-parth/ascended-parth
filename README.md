@@ -5,7 +5,7 @@
   />
 </p>
 
-<h1 align="center">𝑝𝑎𝑟𝑡ℎ ☆</h1>
+<h1 align="center">𝙿𝙰𝚁𝚃𝙷 ☆</h1>
 
 <p align="center">
   <samp>cs student · machine learning · python enthusiast · night rider · learning rust</samp>
